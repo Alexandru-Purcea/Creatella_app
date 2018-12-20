@@ -1,6 +1,6 @@
 # Start project
 
-Start with `npm run start` and npm run webpack.
+Start with `npm run start` and `npm run webpack`.
 
 # Products Grid
 
