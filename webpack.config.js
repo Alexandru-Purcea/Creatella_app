@@ -19,6 +19,11 @@ const webpack = {
         use: "babel-loader"
       },
       {
+        test: /\.jsx$/,
+        exclude: /node_modules/,
+        use: "babel-loader"
+      },
+      {
         test: /\.(gif|png|jpe?g|svg)$/i,
         use: [
           "file-loader",
