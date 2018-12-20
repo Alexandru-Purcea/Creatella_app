@@ -1,0 +1,24 @@
+#content-container {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+}
+#buttonsContainer {
+  width: 1068px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 60px !important;
+  margin-bottom: 60px !important;
+  justify-self: center;
+  cursor: inherit;
+  margin: auto;
+}
+
+.sortButton {
+  height: 40px;
+  width: 100px;
+  margin-left: 40px;
+  cursor: inherit;
+}

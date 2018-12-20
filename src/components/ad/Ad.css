@@ -1,0 +1,12 @@
+#adContainer {
+  clear: both;
+  margin: 41px auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ad {
+  width: 470px;
+  border-radius: 3px;
+}

@@ -1,0 +1,20 @@
+.itemPreview {
+  font-size: 23px;
+  height: 60px;
+  overflow: hidden;
+  background-color: #68b5ff;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.itemDetailsContainer {
+  height: 113px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.itemDetails {
+  margin: 0;
+}
